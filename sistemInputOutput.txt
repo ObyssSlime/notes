@@ -1,0 +1,51 @@
+skema komputer
+	- skema block 
+		1. peralatan masukan	
+		2. port-port masukan dan keluaran
+			- bus kendali
+			- bus alamat
+			- bus data
+			- pemroses
+				- CU
+				- ALU
+				- register
+			- memori utama
+		3. peralatan keluaran
+struktur I/O
+	- synchronous = sistem yang terjadi pada waktu yang sama
+
+	- asynchronous = sistem yang tidak terikat oleh waktu
+
+perangkat keras I/O
+	- perangkat input
+		- keyboard
+		- mouse
+		- touchpad
+		- lightpen
+		- scanner
+		- joystick
+		- trackball
+		- kamera digital
+		- handycam
+		- webcam
+		- graphic card
+		- barcode reader
+		- microphone
+		- finger print
+		- card reader
+		- cd-room
+		- flaskdrive
+	
+	- perangkat output
+		- monitor
+		- printer
+		- plotter
+		- headphone
+		- earphone
+		- proyektor
+		- speaker	
+
+referensi :
+	- https://eprints.dinus.ac.id/6154/1/SO_1-6.pdf
+	- https://salamdian.com/perangkat-input-dan-output-komputer
+	
