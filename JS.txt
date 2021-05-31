@@ -1,11 +1,105 @@
 Rangkuman Javascript
 
-Definisi
+Definisi : 
 - javascript merupakan bahasa pemrograman tingkat tinggi
 
-History
+History :
 - javascript pertama kali diciptakan oleh brendan eich seorang programmer netscape pada tahun 1995
 
-- javascript awalnya bernama mocha kemudian berubah menjadi livescript dikarenakan bahasa pemrograman java sedang populer maka livescripr pun diubah menjado javascript
+- javascript awalnya bernama mocha kemudian berubah menjadi livescript dikarenakan bahasa pemrograman java sedang populer maka livescript pun diubah menjadi javascript
 
-- javascript diadopsi diluar netscape kemudian distandarisasi oleh ECMA dan menjadi ECMAscript 
+- javascript diadopsi diluar netscape kemudian distandarisasi oleh ECMA dan menjadi ECMAscript, pada tahun 2000-2010 ECMAscript3 sedang populer dan antara tahun tersebut ECMAscript4 juga dikembangkan dan ditutup pada tahun 2008 karena alasan tertentu. pada tahun 2009 ECMAscript5 rilis hanya dengan sedikit perbaikan. pada tahun 2015 ECMAscript6 rilis dengan banyak perubahan termasuk ide pada ECMAscript4
+
+sedikit penjelasan : 
+- expression yaitu kode yang mehasilkan nilai
+
+- statement yaitu kode yang dapat melakukan aksi
+
+- identifier yaitu nama variabel
+
+- setiap nilai pada javascript mewarisi sifat boolean yaitu dengan menggunakan truthy dan falsy
+	- contoh falsy yaitu number 0, bigInt 0n, string kosong seperti "", null, undefine, NaN
+
+kode :
+
+- output
+	- console.log(""); = untuk menampilkan pesan pada console
+
+- komentar
+	- // = komentar satu baris
+
+	- /**/ = komentar dua baris
+
+- deklarasi variabel
+	- var = tidak direkomendasikan untuk digunakan
+
+	- let = dapat diubah nilainya
+
+	- cons = tidak dapat diubah nilainya
+
+- tipe data primitif = hanya bisa menyimpan satu nilai
+	- undefine
+	
+	- numbers
+	
+	- bigint 
+		- hanya bisa menggunakan nilai integer
+	
+	- string
+		- string concatination = menggabungkan dua string dengan operator "+"
+		- string interpolation = variabel dapat dimasukan kedalam string template
+		- string template = menggunakan tanda backtick "``"
+
+	- boolean
+
+	- null
+	
+	- symbol
+		- meskipun nilainya ditulis sama tapi dianggap berbeda
+	
+- tipe data kompleks = dapat menyimpan banyak nilai
+	- object
+		- menyimpan data dengan format key-value
+	
+		- harus berupa string
+	- array
+		- data disusun berurutan
+		
+		- diakses menggunakan indexs	
+	- map
+
+	- set
+
+- operator
+	- aritmetic operator
+
+	- assignment operator
+		- operator "=" dapat dikombinasikan dengan aritmetic operator
+
+	- comparison operator
+		- "==" bernilai sama atau tidak, tidak identik
+		- "===" bernilai sama atau tidak, identik
+	
+	- logical operator
+
+- control flow
+	- if
+	
+	- else if
+
+	- else
+
+- switch statment
+	- switch
+	
+	- case
+	
+	- default
+
+- looping
+	- for
+	
+	- white
+	
+	- do while
+
