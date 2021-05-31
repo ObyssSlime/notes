@@ -1,0 +1,11 @@
+Rangkuman Javascript
+
+Definisi
+- javascript merupakan bahasa pemrograman tingkat tinggi
+
+History
+- javascript pertama kali diciptakan oleh brendan eich seorang programmer netscape pada tahun 1995
+
+- javascript awalnya bernama mocha kemudian berubah menjadi livescript dikarenakan bahasa pemrograman java sedang populer maka livescripr pun diubah menjado javascript
+
+- javascript diadopsi diluar netscape kemudian distandarisasi oleh ECMA dan menjadi ECMAscript 
