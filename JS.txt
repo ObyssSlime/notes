@@ -65,10 +65,14 @@ kode :
 	- array
 		- data disusun berurutan
 		
-		- diakses menggunakan indexs	
+		- diakses menggunakan indeks	
 	- map
+		- format data key-value sama seperti object
+		
+		- memiliki tipe data apapun
 
-	- set
+	- set 
+		- menyimpan data secara unik tidak ada duplikasi, tidak berurutan, tidak menggunakan indeks
 
 - operator
 	- aritmetic operator
@@ -102,4 +106,48 @@ kode :
 	- white
 	
 	- do while
+
+- penggunaan object
+	- terdapat metode delete, code: delete.object.key
+	
+	- bila kay menggunakan spasi maka untuk mengaksesnya, code: object["space key"]
+
+	- terdapat destruction object
+		- membuat key object menjadi variabel lokal, code: object{key:value}<enter>{key}=object
+		
+		- merename key dengan menambahkan nama key baru, code: {key:renameKey}=object
+
+- penggunaan array
+	- terdapat metode push untuk menambahkan data, code: object.push("data")
+
+	- terdapat metode pop untuk menghapus data dari belakang, code: object.pop()
+
+	- terdapat metode shift untuk menghapus data dari depan, code: object.shift()
+
+	- terdapat metode unshiift untuk menambahkan data dari depan, code: object.unshift("data")
+
+	- terdapat metode delete untuk menghapus data dengan indeks tapi hasilnya memiliki spasi atau null, code: delete.object[indeks]
+
+	- terdapat metode splice untuk menghapus data dengan indeks sampai bersih data, code: object.splice(2,1) artinya pada indeks 2 sebanyak 1 elemen
+
+	- menggunakan spread operator untuk menggabungkan indeks array, code: ...array
+
+	- terdapat destruction array
+		- penggunaannya sama dengan object hanya diganti {} dengan []
+
+- penggunaan map
+	- penggunaannya sama seperti object tetapi propertynya bisa menggunakan semua tipe data 	
+	- terdapat metode get()
+
+	- terdapat metode set()
+
+	- penggunaannya, code: map=new Map([key,value])
+
+penggunaan set
+	- data tidak dapat diduplikasi, code: set=new Set(1,2,3,1). hasilnya 123
+
+	- terdapat metode add()
+
+	- terdapat metode delete()
+
 
