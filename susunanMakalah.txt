@@ -1,0 +1,12 @@
+Struktur Makalah
+
+1. sampul
+2. abstrak
+3. daftar isi
+4. kata pengantar
+5. pendahuluan
+6. isi
+7. penutup
+8. daftar pustaka
+
+

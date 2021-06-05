@@ -1,0 +1,5 @@
+1. requirements analysis
+2. design
+3. development
+4. testing
+5. maintenance
