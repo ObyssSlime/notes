@@ -1,0 +1,5 @@
+PPI singkatan dari programmable peripheral interfaces, interface ini bisa diprogram dan memiliki kelebihan yaitu dapat digunakan sebagai input maupun output ataupun keduanya. 
+
+PPI memiliki 3 port masing-masing memiliki 8 terminal yaitu: port a, port b, dan port c.
+
+port c dibagi menjadi 2 yaitu : port c upper dan port c lower masing-masing 4 terminal
