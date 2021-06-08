@@ -35,7 +35,7 @@ kode :
 
 	- let = dapat diubah nilainya
 
-	- cons = tidak dapat diubah nilainya
+	- const = tidak dapat diubah nilainya
 
 - tipe data primitif = hanya bisa menyimpan satu nilai
 	- undefine

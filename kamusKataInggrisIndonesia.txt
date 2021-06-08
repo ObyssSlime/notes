@@ -1,0 +1,21 @@
+# A
+along = sepanjang
+
+# H
+however = namun
+
+# L
+lightweight = ringan
+
+# P
+prefaces = kata pengantar
+prerequisite = prasyarat
+
+# S
+some = beberapa
+such as = seperti
+
+# T
+though = meskipun
+trademarks = merek dagang
+

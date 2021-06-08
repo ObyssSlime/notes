@@ -1,0 +1,8 @@
+1. passwd = ganti password
+2. ls = menampilkan isi direktori
+3. cat = menampilkan isi file
+4. mkdir = membuat direktori
+5. cd = mengganti direktori
+6. login = memulai user
+7. logout = keluar user
+8. cp = melakukan copy
