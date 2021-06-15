@@ -6,3 +6,17 @@
 6. login = memulai user
 7. logout = keluar user
 8. cp = melakukan copy
+9. man = melihat dokumentasi
+10. info = melihat dokumentasi sebelum ada man
+11. bc = kalkulator
+12. cal = kalender
+13. clear = membersihkan layar pada terminal
+14. date = melihat waktu dan tanggal
+15. df = melihat ruang tersedia pada disk
+16. du = melihat jumlah penggunaan direktori
+17. dmesg = melihat log proses saat booting
+18. echo = menampilkan tulisan pada terminal
+19. exit = keluar
+20. expr = melakukan ekspresi
+21. file = menampilkan tipe data file
+22. free = melihat memori tersedia 
