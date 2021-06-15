@@ -1,0 +1,40 @@
+
+tugas 10:
+
+Karena di dalam representasi yang tepat terdapat solusi-solusi untuk menyelesaikan suatu permasalahan tersebut. Maka solusi yang di dapat tidak berputar-putar tanpa kejelasan.
+
+tugas 9:
+1. mengidentifikasi beberapa objek yang penting.
+2. mengidentifikasi beberapa atribut yang penting dari objek tersebut.
+3. memberi skala atas tiap atribut.
+
+tugas 8:
+rekayasa pengetahuan
+rekayasa pengetahuan adalah proses perolehan dari pakar dan pengembangan basis pengetahuan
+
+cakupan dan tipe pengetahuan
+- sumber pengetahuan
+- alat 
+- akusisi dari database
+- akusisi dari internet
+
+level pengetahuan
+1. pengetahuan dangkal
+2. pengetahuan mendalam
+
+kategori pengetahuan
+- pengetahuan deklaratif
+- pengetahuan prosedural
+- meta pengetahuan
+
+tugas 3:
+1. untuk pernyataan nomor 1, jika pengembang merasa kesulitan itu berarti harus lebih banyak menyediakan dokumentasi sistem dan perlu menambahkan beberapa pakar agar beberapa pendapat dapat dijadikan masukan yang lebih.
+
+2. untuk pernyataan nomor 2, jika sebuah sistem itu menggunakan perangkat yang mahal maka pasti terdapat perangkat alternatif yang mirip dan bisa digunakan.
+
+3. untuk pernyataan nomor 3, sistem tidak akan bisa dikatakan sempurna tapi jika ingin memiliki sistem yang baik dan sesuai dengan pengguna maka sistem harus sering diperbaharui dan buatlah tempat untuk para pengguna memberikan saran dan masukan.
+
+tugas 2:
+1. ketersediaan pengetahuan
+2. jika sistem konvensional sudah tidak dapat menangani dengan baik
+3. agar sistem pakar bisa membantu kepakaran menjadi lebih baik

@@ -1,2 +1,6 @@
+# R
+representasi = perwakilan, yang diwakilkan
+
 # S
 semantik = membandingkan kata berdasarkan periode tertentu
+

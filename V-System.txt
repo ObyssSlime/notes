@@ -1,0 +1,4 @@
+V adalah sistem operasi mikrokernel dihentikan dari tahun 1981 sampai 1988
+
+referensi:
+https://en.wikipedia.org/wiki/V_(operating_system)
