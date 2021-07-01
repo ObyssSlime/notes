@@ -4,9 +4,9 @@ tugas 10:
 Karena di dalam representasi yang tepat terdapat solusi-solusi untuk menyelesaikan suatu permasalahan tersebut. Maka solusi yang di dapat tidak berputar-putar tanpa kejelasan.
 
 tugas 9:
-1. mengidentifikasi beberapa objek yang penting.
-2. mengidentifikasi beberapa atribut yang penting dari objek tersebut.
-3. memberi skala atas tiap atribut.
+-mengidentifikasi beberapa objek yang penting.
+-mengidentifikasi beberapa atribut yang penting dari objek tersebut.
+-memberi skala atas tiap atribut.
 
 tugas 8:
 rekayasa pengetahuan
