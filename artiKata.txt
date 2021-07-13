@@ -1,3 +1,9 @@
+# E
+enumerate = terdaftar
+
+# I
+initializer = memberi nilai awal
+
 # R
 representasi = perwakilan, yang diwakilkan
 
